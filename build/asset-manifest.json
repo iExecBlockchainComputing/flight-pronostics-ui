@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flight-pronostics-ui/static/css/main.f0d92630.chunk.css",
+    "main.js": "/flight-pronostics-ui/static/js/main.62350cf9.chunk.js",
+    "main.js.map": "/flight-pronostics-ui/static/js/main.62350cf9.chunk.js.map",
+    "runtime-main.js": "/flight-pronostics-ui/static/js/runtime-main.4ea89584.js",
+    "runtime-main.js.map": "/flight-pronostics-ui/static/js/runtime-main.4ea89584.js.map",
+    "static/css/2.fed657ff.chunk.css": "/flight-pronostics-ui/static/css/2.fed657ff.chunk.css",
+    "static/js/2.98816a1f.chunk.js": "/flight-pronostics-ui/static/js/2.98816a1f.chunk.js",
+    "static/js/2.98816a1f.chunk.js.map": "/flight-pronostics-ui/static/js/2.98816a1f.chunk.js.map",
+    "index.html": "/flight-pronostics-ui/index.html",
+    "precache-manifest.719cac1c7d9fd04f8f366ddd03d23a5c.js": "/flight-pronostics-ui/precache-manifest.719cac1c7d9fd04f8f366ddd03d23a5c.js",
+    "service-worker.js": "/flight-pronostics-ui/service-worker.js",
+    "static/css/2.fed657ff.chunk.css.map": "/flight-pronostics-ui/static/css/2.fed657ff.chunk.css.map",
+    "static/css/main.f0d92630.chunk.css.map": "/flight-pronostics-ui/static/css/main.f0d92630.chunk.css.map",
+    "static/js/2.98816a1f.chunk.js.LICENSE.txt": "/flight-pronostics-ui/static/js/2.98816a1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ea89584.js",
+    "static/css/2.fed657ff.chunk.css",
+    "static/js/2.98816a1f.chunk.js",
+    "static/css/main.f0d92630.chunk.css",
+    "static/js/main.62350cf9.chunk.js"
+  ]
+}
