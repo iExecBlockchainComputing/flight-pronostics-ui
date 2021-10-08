@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/flight-pronostics-ui/precache-manifest.719cac1c7d9fd04f8f366ddd03d23a5c.js"
+  "/flight-pronostics-ui/precache-manifest.628fafb71b666add4d426d8a780bc580.js"
 );
 
 self.addEventListener('message', (event) => {

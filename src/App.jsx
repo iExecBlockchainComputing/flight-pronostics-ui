@@ -161,7 +161,7 @@ function App(props) {
         </Menu>
 
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/flight-pronostics-ui">
           {address?
               <Home address={address} readProvider={readProvider} writeProvider={provider} contracts={readContracts} tx={tx}/>
               : <div style={{marginTop: "30px"}}>Connect your wallet to use the Dapp!</div>

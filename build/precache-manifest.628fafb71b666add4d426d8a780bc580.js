@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dcd80e21464fc1865605aea24aad02d3",
+    "revision": "49e758dd58ae967c42ef942b77372716",
     "url": "/flight-pronostics-ui/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flight-pronostics-ui/static/css/2.fed657ff.chunk.css"
   },
   {
-    "revision": "ad466c678c852f3cb20d",
+    "revision": "02973882f372e393cbbf",
     "url": "/flight-pronostics-ui/static/css/main.f0d92630.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flight-pronostics-ui/static/js/2.98816a1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad466c678c852f3cb20d",
-    "url": "/flight-pronostics-ui/static/js/main.62350cf9.chunk.js"
+    "revision": "02973882f372e393cbbf",
+    "url": "/flight-pronostics-ui/static/js/main.2f293597.chunk.js"
   },
   {
     "revision": "2990065f5d99f648e561",
