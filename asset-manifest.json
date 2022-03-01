@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/flight-pronostics-ui/static/css/main.37d2b1c2.chunk.css",
-    "main.js": "/flight-pronostics-ui/static/js/main.fe7242a7.chunk.js",
-    "main.js.map": "/flight-pronostics-ui/static/js/main.fe7242a7.chunk.js.map",
+    "main.css": "/flight-pronostics-ui/static/css/main.79b25cca.chunk.css",
+    "main.js": "/flight-pronostics-ui/static/js/main.9f37d2d7.chunk.js",
+    "main.js.map": "/flight-pronostics-ui/static/js/main.9f37d2d7.chunk.js.map",
     "runtime-main.js": "/flight-pronostics-ui/static/js/runtime-main.4ea89584.js",
     "runtime-main.js.map": "/flight-pronostics-ui/static/js/runtime-main.4ea89584.js.map",
-    "static/css/2.ecfb3f68.chunk.css": "/flight-pronostics-ui/static/css/2.ecfb3f68.chunk.css",
-    "static/js/2.f9d57a8f.chunk.js": "/flight-pronostics-ui/static/js/2.f9d57a8f.chunk.js",
-    "static/js/2.f9d57a8f.chunk.js.map": "/flight-pronostics-ui/static/js/2.f9d57a8f.chunk.js.map",
+    "static/css/2.85dc5822.chunk.css": "/flight-pronostics-ui/static/css/2.85dc5822.chunk.css",
+    "static/js/2.90b839d9.chunk.js": "/flight-pronostics-ui/static/js/2.90b839d9.chunk.js",
+    "static/js/2.90b839d9.chunk.js.map": "/flight-pronostics-ui/static/js/2.90b839d9.chunk.js.map",
     "index.html": "/flight-pronostics-ui/index.html",
-    "precache-manifest.23138f57335b1223524bbd0c48fba6db.js": "/flight-pronostics-ui/precache-manifest.23138f57335b1223524bbd0c48fba6db.js",
+    "precache-manifest.f9952bfc46729d34a266b26ad2a4b540.js": "/flight-pronostics-ui/precache-manifest.f9952bfc46729d34a266b26ad2a4b540.js",
     "service-worker.js": "/flight-pronostics-ui/service-worker.js",
-    "static/css/2.ecfb3f68.chunk.css.map": "/flight-pronostics-ui/static/css/2.ecfb3f68.chunk.css.map",
-    "static/css/main.37d2b1c2.chunk.css.map": "/flight-pronostics-ui/static/css/main.37d2b1c2.chunk.css.map",
-    "static/js/2.f9d57a8f.chunk.js.LICENSE.txt": "/flight-pronostics-ui/static/js/2.f9d57a8f.chunk.js.LICENSE.txt"
+    "static/css/2.85dc5822.chunk.css.map": "/flight-pronostics-ui/static/css/2.85dc5822.chunk.css.map",
+    "static/css/main.79b25cca.chunk.css.map": "/flight-pronostics-ui/static/css/main.79b25cca.chunk.css.map",
+    "static/js/2.90b839d9.chunk.js.LICENSE.txt": "/flight-pronostics-ui/static/js/2.90b839d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4ea89584.js",
-    "static/css/2.ecfb3f68.chunk.css",
-    "static/js/2.f9d57a8f.chunk.js",
-    "static/css/main.37d2b1c2.chunk.css",
-    "static/js/main.fe7242a7.chunk.js"
+    "static/css/2.85dc5822.chunk.css",
+    "static/js/2.90b839d9.chunk.js",
+    "static/css/main.79b25cca.chunk.css",
+    "static/js/main.9f37d2d7.chunk.js"
   ]
 }
