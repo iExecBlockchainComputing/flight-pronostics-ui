@@ -107,13 +107,12 @@ export const NETWORKS = {
     blockExplorer: "https://mumbai-explorer.matic.today/",
   },
   iExecSidechain: {
-    name: "iExec Test Sidechain",
+    name: "iExec Sidechain",
     color: "#92D9FA",
-    chainId: 133,
+    chainId: 134,
     gasPrice: 0,
-    rpcUrl: "https://viviani.iex.ec",
-    faucet: "https://faucet.iex.ec/viviani",
-    blockExplorer: "https://explorer.iex.ec/viviani/",
-  },
-
+    rpcUrl: "https://bellecour.iex.ec",
+    faucet: "https://faucet.iex.ec/bellecour",
+    blockExplorer: "https://explorer.iex.ec/bellecour/",
+  }
 };

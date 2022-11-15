@@ -12,7 +12,7 @@ module.exports = [
         "type": "uint8"
       }
     ],
-    "name": "Bet",
+    "name": "bet",
     "outputs": [],
     "stateMutability": "payable",
     "type": "function"

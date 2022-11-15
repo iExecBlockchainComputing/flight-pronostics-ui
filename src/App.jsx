@@ -64,7 +64,7 @@ function App(props) {
   let networkDisplay = "";
   if (targetNetwork?.chainId && selectedChainId && targetNetwork.chainId !== selectedChainId) {
     networkDisplay = (
-      <div style={{ zIndex: 2, position: "absolute", right: 0, top: 60, padding: 16 }}>
+      <div style={{ zIndex: 2, position: "absolute", right: 0, top: 70, padding: 16 }}>
         <Alert
           message={"⚠️ Wrong Network"}
           description={
@@ -87,7 +87,7 @@ function App(props) {
     );
   } else {
     networkDisplay = (
-      <div style={{ zIndex: -1, position: "absolute", right: 154, top: 28, padding: 16, color: targetNetwork.color }}>
+      <div style={{ zIndex: -2, position: "absolute", right: 20, top: 55, padding: 16, color: targetNetwork.color }}>
         {targetNetwork.name}
       </div>
     );

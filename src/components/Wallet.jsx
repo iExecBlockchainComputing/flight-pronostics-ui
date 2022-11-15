@@ -264,7 +264,7 @@ export default function Wallet(props) {
               setOpen(!open);
               setQr();
             }}
-          >
+          > 
             <SendOutlined /> Send
           </Button>,
         ]}
