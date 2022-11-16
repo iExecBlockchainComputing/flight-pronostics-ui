@@ -14,7 +14,6 @@ export default function Home({
   tx,
 }) {
   const contractsw = useContractLoader(writeProvider);
-  console.log("contracts", contractsw);
   const [BetValue, setBetValue] = useState("");
   const NumOfPlayers = useContractReader(
     contracts,
@@ -37,7 +36,7 @@ export default function Home({
     if (BetValue) {
       const val = parseEther(BetValue.toString());
       tx(
-        contractsw.FlightBetting.Bet(1, {
+        contractsw.FlightBetting.bet(1, {
           gasPrice: 0,
           gasLimit: 737679,
           value: val,
@@ -55,7 +54,7 @@ export default function Home({
     if (BetValue) {
       const val = parseEther(BetValue.toString());
       tx(
-        contractsw.FlightBetting.Bet(2, {
+        contractsw.FlightBetting.bet(2, {
           gasPrice: 0,
           gasLimit: 737679,
           value: val,
