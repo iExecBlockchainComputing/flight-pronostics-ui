@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/flight-pronostics-ui/static/css/main.37d2b1c2.chunk.css",
-    "main.js": "/flight-pronostics-ui/static/js/main.d4ccbe1e.chunk.js",
-    "main.js.map": "/flight-pronostics-ui/static/js/main.d4ccbe1e.chunk.js.map",
+    "main.js": "/flight-pronostics-ui/static/js/main.5f44fd9e.chunk.js",
+    "main.js.map": "/flight-pronostics-ui/static/js/main.5f44fd9e.chunk.js.map",
     "runtime-main.js": "/flight-pronostics-ui/static/js/runtime-main.4ea89584.js",
     "runtime-main.js.map": "/flight-pronostics-ui/static/js/runtime-main.4ea89584.js.map",
     "static/css/2.ecfb3f68.chunk.css": "/flight-pronostics-ui/static/css/2.ecfb3f68.chunk.css",
     "static/js/2.be1fdfaf.chunk.js": "/flight-pronostics-ui/static/js/2.be1fdfaf.chunk.js",
     "static/js/2.be1fdfaf.chunk.js.map": "/flight-pronostics-ui/static/js/2.be1fdfaf.chunk.js.map",
     "index.html": "/flight-pronostics-ui/index.html",
-    "precache-manifest.45835b6ed562222bfc91217e06c69777.js": "/flight-pronostics-ui/precache-manifest.45835b6ed562222bfc91217e06c69777.js",
+    "precache-manifest.f9522a1f53b6bf85d19fd088ad7236f2.js": "/flight-pronostics-ui/precache-manifest.f9522a1f53b6bf85d19fd088ad7236f2.js",
     "service-worker.js": "/flight-pronostics-ui/service-worker.js",
     "static/css/2.ecfb3f68.chunk.css.map": "/flight-pronostics-ui/static/css/2.ecfb3f68.chunk.css.map",
     "static/css/main.37d2b1c2.chunk.css.map": "/flight-pronostics-ui/static/css/main.37d2b1c2.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.ecfb3f68.chunk.css",
     "static/js/2.be1fdfaf.chunk.js",
     "static/css/main.37d2b1c2.chunk.css",
-    "static/js/main.d4ccbe1e.chunk.js"
+    "static/js/main.5f44fd9e.chunk.js"
   ]
 }
