@@ -14,6 +14,7 @@ export default function Home({
   tx,
 }) {
   const contractsw = useContractLoader(writeProvider);
+  console.log("contracts", contractsw);
   const [BetValue, setBetValue] = useState("");
   const NumOfPlayers = useContractReader(
     contracts,
